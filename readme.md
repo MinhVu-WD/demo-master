@@ -12,7 +12,7 @@ Laravel BackPack's demo, which includes all Backpack packages.
 git clone https://github.com/MinhVu-WD/demo-master.git
 ```
 
-2) Set your database information in your .env file (use the .env.example as an example);
+2) Set your database information in your .env file
 
 3) Run in your backpack-demo folder:
 ``` bash
